@@ -1,11 +1,11 @@
 # DevTools - 程序员在线工具集
 
-一个基于 Vue 3 和 Element-Plus 的在线工具集合，提供丰富的在线开发工具。
+一个基于 Vue 3 和 Element-Plus 的在线工具集合，提供丰富的在线工具。
 
 ## 技术栈
 
-- Vue 3
-- Element Plus
+- Vue 3 前端框架
+- Element Plus UI 组件库
 - Pinia 状态管理
 - Vite 构建工具
 - Font Awesome 图标
