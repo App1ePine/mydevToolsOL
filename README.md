@@ -18,7 +18,7 @@ src/
 │   └── css/        # 样式文件
 ├── components/     # Vue 组件
 │   ├── layout/           # 布局组件
-│   │   ├── AppHeader.vue    # 头部组件 
+│   │   ├── AppHeader.vue    # 头部组件
 │   │   ├── AppFooter.vue    # 底部组件
 │   │   ├── Sidebar.vue      # 侧边栏组件
 │   │   ├── ToolList.vue     # 工具列表
@@ -26,7 +26,7 @@ src/
 │   └── tools/            # 工具组件
 │       ├── code/             # 代码相关工具
 │       │   └── RegexTester.vue
-│       ├── text/             # 文本处理工具 
+│       ├── text/             # 文本处理工具
 │       │   └── Base64Converter.vue
 │       └── data/             # 数据格式工具
 │           └── JsonFormatter.vue
@@ -38,6 +38,7 @@ src/
 ## 功能特性
 
 1. 工具分类管理
+
    - 代码相关工具
    - 文本处理工具
    - 数据格式工具
